@@ -1,5 +1,5 @@
 import css from './Statistics.module.css';
-import PropTypes, { element } from 'prop-types';
+import PropTypes from 'prop-types';
 import { getColor } from '../utils/randomColor';
 
 
