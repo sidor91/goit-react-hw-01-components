@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+    "friendName": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
+    "friendName": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
+    "friendName": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
+    "friendName": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
+    "friendName": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]

@@ -1,6 +1,6 @@
 .profile {
 background-color: rgb(232, 236, 241);
-padding: 100px
+padding: 100px;
 }
 
 .description{
@@ -50,6 +50,7 @@ background-color: rgb(244, 246, 249);
 .statsItem {
  padding: 20px;
  width: calc(100% / 3);
+ border: 1px solid rgb(232, 236, 241);
 }
 
 .label{
