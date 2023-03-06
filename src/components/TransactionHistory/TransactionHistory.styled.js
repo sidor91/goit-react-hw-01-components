@@ -10,8 +10,12 @@ export const TableHead = styled.thead`
 
 `;
 export const Row = styled.tr`
-background-color: ${(p) => {return p.colored ? 'rgb(237, 241, 243)' : 'white'}}
+  background-color: rgb(237, 241, 243);
+  &:nth-child(2n + 1) {
+    background-color: white;
+  }
 `;
+
 export const HeadTitle = styled.th`
   width: calc(100% / 3);
   text-align: center;
@@ -21,6 +25,7 @@ export const HeadTitle = styled.th`
   color: white;
   font-size: 24px;
 `;
+
 export const TableBody = styled.tbody`
 
 `;

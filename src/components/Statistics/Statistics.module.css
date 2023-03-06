@@ -9,6 +9,7 @@ padding: 20px;
     margin: 0;
     padding: 0;
     display: flex;
+    width: 100%;
 }
 
 .title{
@@ -22,6 +23,7 @@ background-color: white;
 .item{
 display: flex;
 flex-direction: column;
+padding: 10px;
 width: calc(100%/5);
 }
 
